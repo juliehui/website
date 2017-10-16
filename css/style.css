@@ -53,6 +53,11 @@
 	border-bottom:1px solid #3498db;
 }
 
+.link-intro-body {
+	border-bottom:1px dashed #3498db;
+  	color:black;
+}
+
 .picture {
 	margin-top:30px;
 	width:458px;
@@ -69,12 +74,12 @@
 }
 
 #bootstrapoverride h2 {
-	font-size:12px;
+	font-size:16px;
 	margin:30px 0px 15px 0px;
 }
 
 .text-body {
-	font-size:14px;
+	font-size:16px;
 	line-height:24px;
 }
 
