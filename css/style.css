@@ -90,7 +90,7 @@
 
 .pic2 {
 	height:200px;
-	background-image: url("images/pic2.JPG");
+	background-image: url("images/pic2.jpg");
 	background-repeat: no-repeat;
 	background-position:30% 9%;
 	background-size:cover;
@@ -99,7 +99,7 @@
 
 .pic3 {
 	height:200px;
-	background-image: url("images/pic3.JPG");
+	background-image: url("images/pic3.jpg");
 	background-repeat: no-repeat;
 	background-position:30% 9%;
 	background-size:cover;
