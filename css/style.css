@@ -59,14 +59,64 @@
   	color:black;
 }
 
-.picture {
+.profilepic {
 	margin-top:30px;
 	height:250px;
-	background-image: url("https://i.imgur.com/kkoL4I6.jpg");
+	background-image: url("../images/profile.jpg");
 	background-repeat: no-repeat;
 	background-position:30% 9%;
 	background-size:cover;
 	border:5px solid #eee;
+}
+
+.researchpic {
+	margin-top:30px;
+	height:250px;
+	background-image: url("../images/researchbanner.jpg");
+	background-repeat: no-repeat;
+	background-position:30% 9%;
+	background-size:cover;
+	border:5px solid #eee;
+}
+
+.pic1 {
+	height:200px;
+	background-image: url("../images/pic1.jpg");
+	background-repeat: no-repeat;
+	background-position:30% 9%;
+	background-size:cover;
+	border:5px solid #eee;
+}
+
+.pic2 {
+	height:200px;
+	background-image: url("../images/pic2.jpg");
+	background-repeat: no-repeat;
+	background-position:30% 9%;
+	background-size:cover;
+	border:5px solid #eee;
+}
+
+.pic3 {
+	height:200px;
+	background-image: url("../images/pic3.jpg");
+	background-repeat: no-repeat;
+	background-position:30% 9%;
+	background-size:cover;
+	border:5px solid #eee;
+}
+
+.pic4 {
+	height:200px;
+	background-image: url("../images/pic4.jpg");
+	background-repeat: no-repeat;
+	background-position:30% 9%;
+	background-size:cover;
+	border:5px solid #eee;
+}
+
+.noleftpadding {
+   padding-left: 0 !important;
 }
 
 .container-bio {
